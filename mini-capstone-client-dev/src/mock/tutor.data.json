@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "first-name": "John",
+    "last-name": "Doe",
+    "mobile": "+1234567890",
+    "literacy": "Masters in Computer Science",
+    "rating": 4.8
+  },
+  {
+    "id": 2,
+    "first-name": "Jane",
+    "last-name": "Smith",
+    "mobile": "+1234567891",
+    "literacy": "Bachelors in Mathematics",
+    "rating": 4.6
+  },
+  {
+    "id": 3,
+    "first-name": "Emily",
+    "last-name": "Johnson",
+    "mobile": "+1234567892",
+    "literacy": "PhD in Physics",
+    "rating": 4.9
+  },
+  {
+    "id": 4,
+    "first-name": "Michael",
+    "last-name": "Williams",
+    "mobile": "+1234567893",
+    "literacy": "Bachelors in Chemistry",
+    "rating": 4.5
+  },
+  {
+    "id": 5,
+    "first-name": "Sarah",
+    "last-name": "Brown",
+    "mobile": "+1234567894",
+    "literacy": "Masters in English Literature",
+    "rating": 4.7
+  },
+  {
+    "id": 6,
+    "first-name": "David",
+    "last-name": "Jones",
+    "mobile": "+1234567895",
+    "literacy": "Bachelors in History",
+    "rating": 4.4
+  },
+  {
+    "id": 7,
+    "first-name": "Laura",
+    "last-name": "Garcia",
+    "mobile": "+1234567896",
+    "literacy": "Masters in Biology",
+    "rating": 4.8
+  },
+  {
+    "id": 8,
+    "first-name": "James",
+    "last-name": "Martinez",
+    "mobile": "+1234567897",
+    "literacy": "PhD in Economics",
+    "rating": 4.9
+  },
+  {
+    "id": 9,
+    "first-name": "Olivia",
+    "last-name": "Hernandez",
+    "mobile": "+1234567898",
+    "literacy": "Masters in Political Science",
+    "rating": 4.6
+  },
+  {
+    "id": 10,
+    "first-name": "Daniel",
+    "last-name": "Lopez",
+    "mobile": "+1234567899",
+    "literacy": "Bachelors in Sociology",
+    "rating": 4.5
+  }
+]
